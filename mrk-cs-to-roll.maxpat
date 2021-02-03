@@ -125,7 +125,7 @@
 					"numvoices" : 1,
 					"out" : "nnnnnnnn",
 					"outlettype" : [ "", "", "", "", "", "", "", "", "bang" ],
-					"patching_rect" : [ 571.0, 271.0, 526.0, 264.833344 ],
+					"patching_rect" : [ 571.0, 271.0, 526.0, 275.333333 ],
 					"pitcheditrange" : [ "null" ],
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 275.333333 ],
 					"showvelocity" : 8,
